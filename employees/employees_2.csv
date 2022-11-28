@@ -1,0 +1,16 @@
+employeeName;employeeAddress;beginDate;title;salary;salaryInWord;hourWage;terminationPeriod;probation
+Tan Hai Nguyen;Langbürgener Straße 14, 81549 München;01.01.2022;Chefkoch;1800,00;Eintausendachthundert;9,82;auf unbestimmte Zeit;01.06.2022
+Thi Hong Nguyen;Schnaitheimer Str.9, 89520 Heidenheim;01.01.2022;Service;700,00;Siebenhundert;9,82;auf unbestimmte Zeit;01.06.2022
+Chi Lam Son Le;Oberbettringer Straße 134, 73525 Schwäbisch Gmünd;01.01.2022;Service;950,00;Neuhundertfünfzig;9,82;bis zum 01.01.2023;01.06.2022
+Thanh Tung Luong;Schaffhauser Str. 58, 78224 Singen;01.01.2022;Koch;800,00;Achthundert;9,82;bis zum 01.01.2023;01.06.2022
+Thai Ha Nguyen;Schnaitheimer Str.9, 89520 Heidenheim;01.01.2022;Koch;1050,00;Eintausendf?nfzig;9,82;bis zum 01.01.2023;01.06.2022
+Thi Kim Hoan Nguyen;Schnaitheimer Str.9, 89520 Heidenheim;01.01.2022;Service;1500,00;Eintausendfünfhundert;9,82;bis zum 01.01.2023;01.06.2022
+Van Trung Nguyen;Schnaitheimer Str.9, 89520 Heidenheim;01.01.2022;Koch;1200,00;Eintausendzweihundert;9,82;bis zum 01.01.2023;01.06.2022
+Aikaterini Raptotasoiu;Stuttgarter Ring 81, 89522 Heidenheim;01.01.2022;Aushilfe;200,00;Zweihundert;9,82;bis zum 01.01.2023;01.06.2022
+Reth Banchuen;Am Radkeller 7, 89518 Heidenheim;01.01.2022;Service;520,00;F?nfhundertzwanzig;9,82;bis zum 01.01.2023;01.06.2022
+Duc Thuan Vu;Eisenbergstraße 12, 89522 Heidenheim;01.01.2022;Chefkoch;2280,00;Zweitausendzweihundertachtzig;14,00;bis zum 01.01.2023;01.06.2022
+Duc Thuan Vu;Eisenbergstraße 12, 89522 Heidenheim;01.02.2022;Chefkoch;1200,00;Eintausendzweihundert;9,82;bis zum 01.02.2023;01.08.2022
+Duc Thuan Vu;Eisenbergstraße 12, 89522 Heidenheim;01.03.2022;Chefkoch;800,00;Achthundert;9,82;bis zum 01.03.2023;01.09.2022
+Van Phong Tran;Kaiserstraße 5, 97070 Würzburg;01.03.2022;Koch;1500,00;Eintausendfünfhundert;9,82;bis zum 01.01.2023;01.06.2022
+Van Thang Do;Burgstallstraße 24, 73431 Aalen;01.01.2022;Koch;1000,00;Eintausend;9,82;bis zum 01.01.2023;01.06.2022
+Ali Rashid;Heckentalstr. 6, 89518 Heidenheim;01.04.2022;Aushilfe;200,00;Zweihundert;9,82;bis zum 01.01.2023;01.06.2022
